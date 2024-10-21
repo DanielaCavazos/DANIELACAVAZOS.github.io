@@ -1,2 +1,61 @@
 # DanielaCavazos.github.io
 Travel Website
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Travel webpage"</title>
+        <style>
+           #title{
+               background-color:rgb(214, 8, 36);
+               color:rgb(255, 255, 255);
+           } 
+           body{
+               background-color:rgb(214, 226, 227);
+           }
+           .places{
+               background-color:rgb(151, 175, 207);
+           }
+           .headings{
+               color:rgb(214, 15, 15);
+           }
+        </style>
+    </head>
+    <body>
+    
+        <h1 id="title">Travel to ....Switzerland!!</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vevey_with_Lake_of_Geneva_and_mountains.jpg/1200px-Vevey_with_Lake_of_Geneva_and_mountains.jpg"width="400">
+        
+        <p><strong><em>Switzerland</em></strong>, located in the heart of <strong>Europe</strong>, is a country renowned for its breathtaking Alps and picturesque lakes, rich cultural heritage, and iconic traditions of chocolate and watchmaking. With a stable economy, sophisticated banking system, and neutral politics, Switzerland boasts a high standard of living.<em> Its capital is Bern</em>, with a population of 8.5 million people, and four official languages:
+        <ol>
+        <li>German</li>
+        <li>French</li>
+        <li>Italian</li>
+        <li>Romansh</li>
+            
+        </ol>
+         This haven for nature lovers, foodies, and entrepreneurs seamlessly blends tradition and innovation, making Switzerland a <strong>unique and captivating destination.</strong></p>
+        <h2 class="headings"><em>Places you have to visit</em></h2>
+        <ul>
+            <li class="places">Zúrich</li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Z%C3%BCrich_%28Schweiz%29%2C_Ufer_der_Limmat_--_2011_--_1390.jpg/640px-Z%C3%BCrich_%28Schweiz%29%2C_Ufer_der_Limmat_--_2011_--_1390.jpg"width="300">
+            <li class="places">Jungfraujoch</li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Finsteraarhorn_and_surrounding_mounts.jpg/1200px-Finsteraarhorn_and_surrounding_mounts.jpg"width="300">
+            <li class="places">Lake Geneva</li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Lake_Geneva_from_Chillon_Castle.jpg"width="300">
+            <li class="places">Chillon Castle</li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg"width="300">
+            <li class="places">Glacier Express</li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/RhB_Ge_4-4_II_614_Glacier_Express_on_Landwasser_Viaduct.jpg"width="300">
+            <li class="places">Swiss Alps Jungfrau-Aletsch</li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Albula_Alps.jpg"width="300">
+            <li class="places">Oberhofen Castle</li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Oberhofen.jpg/1200px-Oberhofen.jpg"width="300">
+            <li class="places">Rhine Falls</li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/SBB_RABe_514_DTZ_Rheinfall.jpg"width="300">
+            
+        </ul>
+        <p>In conclusion,<strong> <em>Switzerland</em></strong> is a destination that offers an unparalleled blend of <em>natural beauty, rich culture, and innovation, making it a must-visit destination for any traveler</em>. From the majestic Alps to the serene lakes, vibrant cities, and quaint villages, Switzerland's diverse landscapes will leave you breathless. Immerse yourself in the country's storied history, indulge in world-renowned chocolate and cuisine, and experience the warmth of Swiss hospitality.</p>
+        <h2 class="headings"><em>Travel to Switzerland!!</em></h2>
+    </body>
+</html>
